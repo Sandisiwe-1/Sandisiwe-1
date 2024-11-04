@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sandisiwe-1
+- 👋 Hi, I’m @Sandisiwe
 - 👀 I’m interested in creating many projects using c langiage
 - 🌱 I’m currently learning c langiage
 - 💞️ I’m looking to collaborate on any c language projects
